@@ -1,7 +1,7 @@
 # Lethal Company modpack for the Only Asians meetup
 pretty much it
 
-###v1.0.0 
+### v1.0.0 
 
 adds these mods
 ```
@@ -28,7 +28,7 @@ Backrooms-Backrooms
 5Bit-VoiceHUD
 CTMods-KarmaForBeingAnnoying
 ```
-###v1.0.1
+### v1.0.1
 
 adds these mods
 ```
