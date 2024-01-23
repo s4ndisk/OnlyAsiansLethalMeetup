@@ -43,3 +43,24 @@ removes these mods
 bizzlemip-BiggerLobby
 Backrooms-Backrooms
 ```
+
+### v1.0.2
+
+adds these mods
+```
+amnsoft-EmployeeAssignments
+willis81808-LethalSettings
+quackandcheese-MirrorDecor
+TheBeeTeam-PersistentPurchases
+Ozone-NC_LC_API
+Ozone-BepInUtils
+Ozone-Cabinet_Item_Storage
+Jordo-NeedyCats
+axd1x8a-LCAmmoCheck
+Zaggy1024-OpenBodyCams
+```
+
+removes these mods
+```
+RickArg-Helmet_Cameras
+```
