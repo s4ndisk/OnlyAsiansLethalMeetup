@@ -69,9 +69,6 @@ RickArg-Helmet_Cameras
 
 adds these mods
 ```
-Evaisa-LethalLib-0.14.2
-scoopy-Scoopys_Variety_Mod-1.1.0
-MegaPiggy-BuyableShotgun-1.0.4
 malco-Lategame_Upgrades-3.1.1
 Rune580-LethalCompany_InputUtils-0.6.2
 PotatoePet-AdvancedCompany-1.0.148
