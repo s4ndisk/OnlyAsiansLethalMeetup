@@ -90,3 +90,7 @@ quackandcheese-MirrorDecor-1.3.1
 Ozone-Cabinet_Item_Storage-0.0.4
 axd1x8a-LCAmmoCheck-1.1.1
 ```
+
+### v1.0.4
+
+added mods
