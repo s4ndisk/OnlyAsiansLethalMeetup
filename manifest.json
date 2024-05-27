@@ -4,9 +4,9 @@
     "website_url": "https://github.com/s4ndisk/OnlyAsiansLethalMeetup",
     "description": "Lethal Company modpack for the only asians discord :)",
     "dependencies": [
-        "BepInEx-BepInExPack",
-        "notnotnotswipez-MoreCompany",
-        "RugbugRedfern-Skinwalkers",
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.9.1",
+        "RugbugRedfern-Skinwalkers-5.0.0",
         "anormaltwig-LateCompany-1.0.13",
         "AlexCodesGames-AdditionalContentFramework-1.0.3",
         "EliteMasterEric-Coroner-1.6.2",
